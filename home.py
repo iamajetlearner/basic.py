@@ -1,0 +1,8 @@
+question=input("how are you doing? :")
+print(question)
+q1=input("why? :")
+print("ok,", q1)
+q2=input("what is your name? :")
+print(q2)
+q3=input("how old are you? :")
+print(q3, "ok")
